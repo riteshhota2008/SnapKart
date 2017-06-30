@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/text_size_regular</item>
+        <item name="fontPath">@string/font_regular</item>
+    </style>
+
+    <style name="TextAppearance.Micro" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_micro</item>
+        <item name="fontPath">@string/font_light</item>
+    </style>
+
+    <style name="TextAppearance.Small" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="fontPath">@string/font_light</item>
+    </style>
+
+    <style name="TextAppearance.Regular" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_regular</item>
+        <item name="fontPath">@string/font_medium</item>
+    </style>
+
+    <style name="TextAppearance.Large" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="fontPath">@string/font_regular</item>
+    </style>
+
+    <style name="TextAppearance.Title3" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_title3</item>
+        <item name="fontPath">@string/font_light</item>
+    </style>
+
+    <style name="TextAppearance.Title2" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_title2</item>
+        <item name="fontPath">@string/font_bold</item>
+    </style>
+
+    <style name="TextAppearance.Title1" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_title1</item>
+        <item name="fontPath">@string/font_bold</item>
+    </style>
+
+</resources>

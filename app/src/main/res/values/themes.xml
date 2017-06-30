@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme" />
+
+    <style name="Theme.BaseSnapKart" parent="@style/Theme.Design.NoActionBar">
+
+    </style>
+
+    <style name="Theme.SnapKart" parent="@style/Theme.BaseSnapKart">
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryDark">@color/darker</item>
+        <item name="colorAccent">@color/light</item>
+
+        <item name="android:colorBackground">@color/dark</item>
+        <item name="android:windowBackground">@color/dark</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+</resources>

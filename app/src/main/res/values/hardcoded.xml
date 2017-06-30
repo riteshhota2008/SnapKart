@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="font_light">fonts/HKGrotesk-Light.otf</string>
+    <string name="font_regular">fonts/HKGrotesk-Regular.otf</string>
+    <string name="font_medium">fonts/HKGrotesk-Medium.otf</string>
+    <string name="font_bold">fonts/HKGrotesk-Bold.otf</string>
+
+</resources>

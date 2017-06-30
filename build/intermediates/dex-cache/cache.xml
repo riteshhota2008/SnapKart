@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/19fc997620d57648117cdd3166af20d025b7087a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_d40c1d71ca911ccb3cd17fbc0dd9283d36f10d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/72e4676860538631ce62046441463de82771f8f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_6031de0cbe60782c0b504d8267268b674fa91fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/javax.inject-1_8505d7c0104be8d29669ce3a5860c5c70212c7bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/f29be2e4608604e84fad5b7f1a14c7cc2077de4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_6e39ba8bab102def6e17448f0c4ce9090f1dc46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11-rc2/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/dagger-2.11-rc2_17af3ff676b93a17b1664e8c4f52f383e04dc4a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/eaf764fd6bd0b4862419fead54cd9127473b8acf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_615461f0574cd70e42653ec7b2d01592f5e0ae3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/4970cca5a30838b8f1c47c772999111e914515fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_f669ed49dff02a47a7fedbe799acd7bbf4394e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/e24180ce963a6e6234b760456a5f365629ec0ea6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_7e942361acc827fe30b5d56460a286103ebdb8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/bbe7e5fd99af2e691258985913f3bdc57b86750a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_109c0a7910d9617ed44581eb69b4ca65b8a2c466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/bdb3039bb2555edfa45911b8ba9c217953b77cd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_a40f9f8bb8a58e9dcea72a1b119301d5b1676f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/bd0d0cecbaba3530316fd37d8cb82874a2f859bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_a8ddcc18f480f5f7baac16138ccff39e7f14a36e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_69972751ff15c539d9fc8106dc9eda4a2cc6f9a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/77a2f93d78591e8def39cea9444402c6b060d007/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_191e2eff696c21d8bb89b8921abe2bddfec880f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_fb3ba32b910916441225f05cec01a650ddffb70c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/250ed3add7e547eb66e00910ce1e168023a2c98c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_88d80e88ce3b962bbe688a42e04ab6a13390e266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.clarifai.clarifai-api2/core/2.0.2/2f2018aa773ec96511ed1570e9604c81eaca9076/core-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2018aa773ec96511ed1570e9604c81eaca9076">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/core-2.0.2_235976717e3a77d9c46f54f17741f28ce6f46946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_4f3c4f1c7b19267d97e879c1485f88cce61c75d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_871a3bdbb8fa0abd295ef5abc4a115e453f6e4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/okhttp-3.7.0_7fba44ef2f96e58242f83ba60b31e0c0f6b1e571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/7ae62e79ea9d2f4049a100a50a9dca8c47429d2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_cdde0ec026e483d935467e4d3f6bbd85d83b0865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/okio-1.12.0_cb0256cc715d148898d72f80a263b2f5eff6c0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/d454f116fcc0606966b37bca11217dcf46d8e766/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_32bc03fe5751f30a5f0f073b6e8aa52429c17326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/32cabeeecae9affaeb64ce9afea7419de68be9b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_9fe7e8eca7adbcca57f26ed2c419478daa5d1912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.7.0/9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734/logging-interceptor-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.7.0_6cfac2a7367958553f310cf928ccc3fb3a1c2409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/6ba51cf877bc4a0c8ea8afecca838e3f4de68905/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_d78b07e8e00ab77a2b770d57bec3cfb403e128f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/c9e2a8ff694cc3d7cc7954e1840e677ede364d36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9a4d49b97190d4490310827938d428c6fc996f4">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_421bb056bef6cbfabaa8a9c681c8504c035a8c63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/gson-2.7_8af750065af6e4f0a1191c1d1fa015ac80a5f5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/5b0f0f151a2879d84981fc303ba8edd3b49b464d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_70e7d396c281adacc23a6346b47c796920606a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asdabholkar/.android/build-cache/3691ec21719f6948a5d8f2ddf0a68be7ed0d7f85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92137af0a8a8623fa451a25beaffc4a9f22a8bb9">
+        <dex dex="/Users/asdabholkar/Dropbox/Work/android-snapkart/app/build/intermediates/pre-dexed/debug/classes_70d116da557143bb23c07841de1b7a7a8815b363.jar" />
+    </item>
+
+</items>
